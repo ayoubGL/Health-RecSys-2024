@@ -1,0 +1,6 @@
+1/3 tests passed for assumption - Homoscedasticity
+2/2 tests passed for assumption - Outliers/Leverage/Influence
+0/1 tests passed for assumption - Independence of Residuals
+1/2 tests passed for assumption - Multicollinearity
+1/2 tests passed for assumption - Linearity
+1/2 tests passed for assumption - Normality
